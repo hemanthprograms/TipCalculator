@@ -16,7 +16,7 @@ This is a simple Android application that calculates the tip for a given amount.
 
 To install the app, you need to have Android Studio installed on your computer. Here are the steps to install the app:
 
-1. Clone this repository to your local machine using `git clone https://github.com/username/tipcalculator.git` (replace `username` with the actual username).
+1. Clone this repository to your local machine using `git clone https://github.com/hemanthprograms/tipcalculator.git` (replace `username` with the actual username).
 2. Open Android Studio.
 3. Click on `File`, then `Open...` and navigate to the cloned repository.
 4. Click on `Run` (or press Shift + F10) to build and run the project on your chosen emulator or real device.
